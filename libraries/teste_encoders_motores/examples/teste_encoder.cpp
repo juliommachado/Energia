@@ -1,4 +1,4 @@
-#include <teste_encoders.h>
+#include <teste_encoders_motores.h>
 void setup()
 {
 	declaraPinos();
